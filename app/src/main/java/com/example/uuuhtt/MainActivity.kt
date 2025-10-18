@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//dw8qwdkui
 @Composable
 fun MyApp(modifier: Modifier = Modifier) {
     val navController = rememberNavController()
