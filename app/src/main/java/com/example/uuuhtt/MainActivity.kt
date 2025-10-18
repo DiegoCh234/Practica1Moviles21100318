@@ -75,10 +75,10 @@ fun HolmScreen(modifier: Modifier = Modifier) {
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Text(text = "HOLM")
+        Text(text = "HOLjry34M")
     }
 }
-
+//hsdaslol
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
